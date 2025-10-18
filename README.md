@@ -1,11 +1,4 @@
-2025년 경영정보 시각화 능력-Power bi(2025년 1월 14일 릴리즈 버전)-프로그램 설치
+<img width="899" height="686" alt="image" src="https://github.com/user-attachments/assets/c5216560-a4ea-4561-90fa-0e2160059d1d" />
 
-​설치 사이트
-
-접속하여 
-
-
-
-링크 경로-파워 BI 다운로드해서 설치
-
+https://license.korcham.net/co/examguide04Sub.do?cd=0108&mm=28&no=300663&pg=1
  
