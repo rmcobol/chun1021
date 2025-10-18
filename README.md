@@ -1,4 +1,4 @@
-1.
+
 <img width="899" height="686" alt="image" src="https://github.com/user-attachments/assets/c5216560-a4ea-4561-90fa-0e2160059d1d" />
 <img width="1004" height="198" alt="image" src="https://github.com/user-attachments/assets/9254d017-f215-4f15-a6f5-2eb88363e916" />
 https://license.korcham.net/co/examguide04Sub.do?cd=0108&mm=28&no=300663&pg=1
